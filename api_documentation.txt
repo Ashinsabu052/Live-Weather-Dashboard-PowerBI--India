@@ -1,0 +1,17 @@
+Live Weather Data Source:
+
+API Provider: OpenWeatherMap
+API Type: Current Weather Data API
+Format: JSON
+
+Sample API Format:
+https://api.openweathermap.org/data/2.5/weather?q=Delhi&units=metric
+
+Fields Used:
+- main.temp
+- main.humidity
+- wind.speed
+- weather.description
+
+Note:
+API key is hidden for security reasons.
